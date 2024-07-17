@@ -88,6 +88,11 @@
     },
     "fx_offsets": [
       {
+        "type": "build",
+        "filename": "/pa/effects/specs/fab_spray.pfx",
+        "bone": "socket_leftMuzzle"
+      },
+      {
           "type": "idle",
           "filename": "/pa/units/commanders/raptor_enderstryke71/enderstryke_colonels.pfx",
           "bone": "bone_spine",
